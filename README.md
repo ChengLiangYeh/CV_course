@@ -38,3 +38,5 @@
   2. Minimum variance Laplacian
   3. Laplace of Gaussian
   4. Difference of Gaussian
+
+- Check results in each .docx files!
